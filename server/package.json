@@ -13,6 +13,5 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": "https://github.com/DarkCyTic/simple-nodejs-proxy.git",
   "author": "Shuo Cui <cuidream@hotmail.com>"
 }
