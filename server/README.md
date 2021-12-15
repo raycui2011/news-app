@@ -5,6 +5,10 @@ This is an example for how to set up a proxy and send request to theguardian to 
 ## Available Scripts
 
 In the project directory, you can run
+
+### `yarn install`
+Remove the yarn.lock file and then run ### `yarn init` and ### `yarn install` to install all the dependencies.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
